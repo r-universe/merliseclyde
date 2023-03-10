@@ -1,5 +1,9 @@
 [
   {
+    "package": "bark",
+    "oncran": true
+  },
+  {
     "package": "BAS",
     "oncran": true
   }
