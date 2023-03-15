@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "BAS"]
-	path = BAS
-	url = https://github.com/merliseclyde/bas
-	shallow = true
-	registered = true
 [submodule "bark"]
 	path = bark
 	url = https://github.com/merliseclyde/bark
+	shallow = true
+	registered = true
+[submodule "BAS"]
+	path = BAS
+	url = https://github.com/merliseclyde/bas
 	shallow = true
 	registered = true

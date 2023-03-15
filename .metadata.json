@@ -1,10 +1,10 @@
 [
   {
-    "package": "BAS",
+    "package": "bark",
     "oncran": true
   },
   {
-    "package": "bark",
+    "package": "BAS",
     "oncran": true
   }
 ]
